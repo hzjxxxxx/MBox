@@ -10,7 +10,6 @@ public class Main{
 
         
         // --- TODO
-// Create another MusicBox object with different parameters
 MusicBox mbox2 = new MusicBox("A12BC34", 'N', "Sunshine", "Bright", 
     "Happy day", "Pop", "Star Music", "Sunny Vibes");
 
