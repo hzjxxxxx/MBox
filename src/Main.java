@@ -10,8 +10,8 @@ public class Main{
 
         
         // --- TODO
-MusicBox mbox2 = new MusicBox("A12BC34", 'N', "Sunshine", "Bright", 
-    "Happy day", "Pop", "Star Music", "Sunny Vibes");
+MusicBox mbox2 = new MusicBox("A", 'N', "Su", "hzj", 
+    "hzjxxx", "111", "minecraft", "Sunny");
 
 // Play song with ads parameter as 1
 playsong.playSong(mbox2.getSongID(), mbox2.getPremiumSong(), 1);
